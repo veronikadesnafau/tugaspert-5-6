@@ -105,7 +105,7 @@ print (w, x, y, z, sep='------')
 #### OUTPUT
 Dibawah ini merupakan hasil output dari syntax diatas
 
-
+![12](https://user-images.githubusercontent.com/73016496/98139349-adb46180-1ef6-11eb-910e-50965235a8d6.png)
 
 #### ANALISIS
 •	Perintah separator berfungsi untuk memberi pemisah seperti koma( , ), titik dua( : )dan lain sebagainya seperti pada syntax diatas.
