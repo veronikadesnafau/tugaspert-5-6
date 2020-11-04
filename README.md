@@ -34,7 +34,7 @@ print ("I am very glad if you want to invite my house in",alamat,".","So don't f
 #### OUTPUT
 Dibawah ini merupakan hasil output dari syntax diatas
 
-![outputBiodata]
+![outputBiodata]![2](https://user-images.githubusercontent.com/73016496/98121974-93708880-1ee2-11eb-910a-fecdb47a4c43.png)
 
 #### ANALISIS
 •	Variabel adalah merupakan tempat untuk menyimpan data yang data-data tersebut dapat diambil/dipanggil kembali apabila dibutuhkan.
