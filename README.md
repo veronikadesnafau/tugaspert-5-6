@@ -156,7 +156,7 @@ print ('{0:>3} {1:>16}'.format(10, 10**10))
 #### OUTPUT
 Dibawah ini merupakan hasil output dari syntax diatas
 
-
+![14](https://user-images.githubusercontent.com/73016496/98139397-bdcc4100-1ef6-11eb-9c5e-658827dd90b7.png)
 
 #### ANALISIS
 •	Untuk angka pada statement {0:<3} {1:<16} berfungsi untuk memberi jarak, lalu untuk tanda < dan > untuk memberikan rata kanan dan rata kiri. <br>
