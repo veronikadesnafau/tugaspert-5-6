@@ -64,6 +64,7 @@ Bagian yang berada didalam tanda kutip seperti “My name is” akan ditampilkan
 
 ## Tugas Pertemuan Ke 6
 
+
 ### Pertemuan 6 Lab 1
 
 ![Syntaxlab1](https://user-images.githubusercontent.com/72775624/97995262-dcf4a100-1e18-11eb-86ce-194b86aacc27.PNG)
@@ -163,3 +164,37 @@ Dibawah ini merupakan hasil output dari syntax diatas
 #### ANALISIS
 •	Untuk angka pada statement {0:<3} {1:<16} berfungsi untuk memberi jarak, lalu untuk tanda < dan > untuk memberikan rata kanan dan rata kiri. <br>
 •	Untuk statement .format(0, 10** 0)) berfungsi untuk mencetak angka 0 dan hasil dari 10 pangkat 0 
+
+
+### Pertemuan 6 Lab 2
+
+![Syntaxlab2](https://user-images.githubusercontent.com/72775624/97995267-df56fb00-1e18-11eb-9428-6f3bcaaba557.PNG)
+
+#### SYNTAX
+berikut merupakan syntax untuk menampilkan program diatas
+``` python
+a = eval (input("masukan nilai a: "))
+b = eval (input("masukan nilai b: "))
+hasil = a+b
+print ("variable a = ",a)
+print ("variable b = ",b)
+print ("hasil penggabungan %d & %d = %d" % (a, b, hasil))
+
+#konversi nilai variable
+
+print ("KONVERSI NILAI VARIABLE")
+a = int(a)
+b = int(b)
+print("hasil penjumlahan {1}+{0}=%d".format(a,b) % (a+b))
+print("hasil penjumlahan {1}/{0}=%d".format(a,b) % (a/b))
+```
+
+#### OUTPUT
+Dibawah ini merupakan hasil output dari syntax diatas
+
+
+#### ANALISIS
+•	Statement %d berfungsi untuk wadah menyimpan variabel a, b, dan hasil setelah dipanggil kembali oleh statement % (a, b, hasil))
+
+
+
