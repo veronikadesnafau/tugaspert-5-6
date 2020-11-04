@@ -192,6 +192,7 @@ print("hasil penjumlahan {1}/{0}=%d".format(a,b) % (a/b))
 #### OUTPUT
 Dibawah ini merupakan hasil output dari syntax diatas
 
+![15](https://user-images.githubusercontent.com/73016496/98146582-3be01600-1efe-11eb-9f36-8e20e6880ccf.png)
 
 #### ANALISIS
 •	Statement %d berfungsi untuk wadah menyimpan variabel a, b, dan hasil setelah dipanggil kembali oleh statement % (a, b, hasil))
