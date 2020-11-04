@@ -83,6 +83,7 @@ print ('Z')
 #### OUTPUT
 Dibawah ini merupakan hasil output dari syntax diatas
 
+![11](https://user-images.githubusercontent.com/73016496/98139319-a42af980-1ef6-11eb-8a78-eed0929f2c46.png)
 
 
 #### ANALISIS
