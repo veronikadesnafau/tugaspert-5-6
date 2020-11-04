@@ -60,3 +60,104 @@ print ("I was born in",tempatLahir,"and i am",umur,"years old", end='\n')
 print ("I am very glad if you want to invite my house in",alamat,".","So don't forget to call me before with the number",noHp)
 ```
 Bagian yang berada didalam tanda kutip seperti “My name is” akan ditampilkan/dicetak sama seperti statement tersebut, sedangkan pada ,namaLengkap, digunakan untuk memanggil data dari variabel namaLengkap yang telah diinputkan.
+
+
+### Pertemuan 6 Lab 1
+
+![Syntaxlab1](https://user-images.githubusercontent.com/72775624/97995262-dcf4a100-1e18-11eb-86ce-194b86aacc27.PNG)
+
+### PENGGUNAAN END
+#### SYNTAX
+berikut merupakan syntax untuk menampilkan program diatas
+``` python
+#penggunaan end
+print ('A', end='')
+print ('B', end='')
+print ('C', end='')
+print ( )
+print ('X')
+print ('Y')
+print ('Z')
+```
+
+#### OUTPUT
+Dibawah ini merupakan hasil output dari syntax diatas
+
+![ouputend](https://user-images.githubusercontent.com/72775624/97995241-d8c88380-1e18-11eb-8ecd-7205a65a4c94.PNG)
+
+#### ANALISIS
+•	Perintah end berguna untuk memberi garis baru/newline namun apabila value dari end maka statement yang dicetak tidak akan memberi garis baru seperti output diatas.
+
+### PENGGUNAAN SEPARATOR
+#### SYNTAX
+berikut merupakan syntax untuk menampilkan program diatas
+``` python
+#penggunaan separator
+w, x, y, z = 10, 15, 20, 25
+print (w, x, y, z)
+print (w, x, y, z, sep=',')
+print (w, x, y, z, sep='')
+print (w, x, y, z, sep=':')
+print (w, x, y, z, sep='------')
+```
+
+#### OUTPUT
+Dibawah ini merupakan hasil output dari syntax diatas
+
+![outputseparator](https://user-images.githubusercontent.com/72775624/97995251-dbc37400-1e18-11eb-9616-a46356eed1dd.PNG)
+
+#### ANALISIS
+•	Perintah separator berfungsi untuk memberi pemisah seperti koma( , ), titik dua( : )dan lain sebagainya seperti pada syntax diatas.
+
+### PENGGUNAAN STRING
+#### SYNTAX
+berikut merupakan syntax untuk menampilkan program diatas
+``` python
+#penggunaan string 
+print(0, 10**0)
+print(1, 10**1)
+print(2, 10**2)
+print(3, 10**3)
+print(4, 10**4)
+print(5, 10**5)
+print(6, 10**6)
+print(7, 10**7)
+print(8, 10**8)
+print(9, 10**9)
+print(10, 10**10)
+```
+
+#### OUTPUT
+Dibawah ini merupakan hasil output dari syntax diatas
+
+![ouputstring](https://user-images.githubusercontent.com/72775624/97995245-d9f9b080-1e18-11eb-96ce-772df1558661.PNG)
+
+#### ANALISIS
+•	Penggunaan string ** pada syntax diatas berfungsi untuk mencetak hasil pangkat, mulai dari 10 pangkat 0 sampai 10 pangkat 10
+
+### PENGGUNAAN STRING FORMAT
+#### SYNTAX
+berikut merupakan syntax untuk menampilkan program diatas
+``` python
+#string format
+print ('{0:>3} {1:>16}'.format(0, 10**0))
+print ('{0:>3} {1:>16}'.format(1, 10**1))
+print ('{0:>3} {1:>16}'.format(2, 10**2))
+print ('{0:>3} {1:>16}'.format(3, 10**3))
+print ('{0:>3} {1:>16}'.format(4, 10**4))
+print ('{0:>3} {1:>16}'.format(5, 10**5))
+print ('{0:>3} {1:>16}'.format(6, 10**6))
+print ('{0:>3} {1:>16}'.format(7, 10**7))
+print ('{0:>3} {1:>16}'.format(8, 10**8))
+print ('{0:>3} {1:>16}'.format(9, 10**9))
+print ('{0:>3} {1:>16}'.format(10, 10**10))
+```
+
+#### OUTPUT
+Dibawah ini merupakan hasil output dari syntax diatas
+
+![outputstringformat](https://user-images.githubusercontent.com/72775624/97995257-dc5c0a80-1e18-11eb-8cad-f927711e8afb.PNG)
+
+#### ANALISIS
+•	Untuk angka pada statement {0:<3} {1:<16} berfungsi untuk memberi jarak, lalu untuk tanda < dan > untuk memberikan rata kanan dan rata kiri. <br>
+•	Untuk statement .format(0, 10** 0)) berfungsi untuk mencetak angka 0 dan hasil dari 10 pangkat 0 
