@@ -1,8 +1,8 @@
 # TUGAS PERTEMUAN 5 DAN 6 BESERTA PENJELASANNYA
 
 **Nama	  : Veronika Desna Ernayanti Fau** <br>
-**Nim	    : 312010333** <br>
-**Kelas	  : TI.20.A2** <br>
+**Nim	   : 312010333** <br>
+**Kelas	 : TI.20.A2** <br>
 **Matkul	: Bahasa Pemrograman** <br>
 
 ## Tugas Pertemuan 5
@@ -12,7 +12,7 @@
 #### SYNTAX
 berikut merupakan syntax untuk menampilkan program diatas
  ``` python
-#Biodata veronika Desna Eranayanti Fau - 312010333
+#Biodata veronika Desna Ernayanti Fau - 312010333
 
 #mengambil input
 namaLengkap = input ("nama lengkap:")
