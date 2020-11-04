@@ -2,10 +2,10 @@
 
 **Nama	  : Veronika Desna Ernayanti Fau** <br>
 **Nim	   : 312010333** <br>
-**Kelas	 : TI.20.A2** <br>
+**Kelas	 : TI.20-A2** <br>
 **Matkul	: Bahasa Pemrograman** <br>
 
-## Tugas Pertemuan 5
+## Tugas Pertemuan Ke 5
 
 ![soalBiodata](https://user-images.githubusercontent.com/72775624/97995202-cc442b00-1e18-11eb-9e6c-95133999be3a.PNG)
 
@@ -61,6 +61,8 @@ print ("I am very glad if you want to invite my house in",alamat,".","So don't f
 ```
 Bagian yang berada didalam tanda kutip seperti “My name is” akan ditampilkan/dicetak sama seperti statement tersebut, sedangkan pada ,namaLengkap, digunakan untuk memanggil data dari variabel namaLengkap yang telah diinputkan.
 
+
+## Tugas Pertemuan Ke 6
 
 ### Pertemuan 6 Lab 1
 
