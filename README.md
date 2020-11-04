@@ -85,7 +85,6 @@ Dibawah ini merupakan hasil output dari syntax diatas
 
 ![11](https://user-images.githubusercontent.com/73016496/98139319-a42af980-1ef6-11eb-8a78-eed0929f2c46.png)
 
-
 #### ANALISIS
 •	Perintah end berguna untuk memberi garis baru/newline namun apabila value dari end maka statement yang dicetak tidak akan memberi garis baru seperti output diatas.
 
@@ -131,7 +130,7 @@ print(10, 10**10)
 #### OUTPUT
 Dibawah ini merupakan hasil output dari syntax diatas
 
-
+![13](https://user-images.githubusercontent.com/73016496/98139371-b4db6f80-1ef6-11eb-9b3b-79c0b4b070c6.png)
 
 #### ANALISIS
 •	Penggunaan string ** pada syntax diatas berfungsi untuk mencetak hasil pangkat, mulai dari 10 pangkat 0 sampai 10 pangkat 10
