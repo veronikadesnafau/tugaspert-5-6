@@ -1,8 +1,8 @@
 # TUGAS PERTEMUAN 5 DAN 6 BESERTA PENJELASANNYA
 
 **Nama	  : Veronika Desna Ernayanti Fau** <br>
-**Nim	    : 312010333** <br>
-**Kelas	  : TI.20.A2** <br>
+**Nim	   : 312010333** <br>
+**Kelas	 : TI.20.A2** <br>
 **Matkul	: Bahasa Pemrograman** <br>
 
 ## Tugas Pertemuan 5
@@ -12,7 +12,7 @@
 #### SYNTAX
 berikut merupakan syntax untuk menampilkan program diatas
  ``` python
-#Biodata veronika Desna Ernayanti Fau - 312010333
+#Biodata Veronika Desna Ernayanti Fau - 312010333
 
 #mengambil input
 namaLengkap = input ("nama lengkap:")
@@ -83,7 +83,7 @@ print ('Z')
 #### OUTPUT
 Dibawah ini merupakan hasil output dari syntax diatas
 
-![ouputend](https://user-images.githubusercontent.com/72775624/97995241-d8c88380-1e18-11eb-8ecd-7205a65a4c94.PNG)
+
 
 #### ANALISIS
 •	Perintah end berguna untuk memberi garis baru/newline namun apabila value dari end maka statement yang dicetak tidak akan memberi garis baru seperti output diatas.
@@ -104,7 +104,7 @@ print (w, x, y, z, sep='------')
 #### OUTPUT
 Dibawah ini merupakan hasil output dari syntax diatas
 
-![outputseparator](https://user-images.githubusercontent.com/72775624/97995251-dbc37400-1e18-11eb-9616-a46356eed1dd.PNG)
+
 
 #### ANALISIS
 •	Perintah separator berfungsi untuk memberi pemisah seperti koma( , ), titik dua( : )dan lain sebagainya seperti pada syntax diatas.
@@ -130,7 +130,7 @@ print(10, 10**10)
 #### OUTPUT
 Dibawah ini merupakan hasil output dari syntax diatas
 
-![ouputstring](https://user-images.githubusercontent.com/72775624/97995245-d9f9b080-1e18-11eb-96ce-772df1558661.PNG)
+
 
 #### ANALISIS
 •	Penggunaan string ** pada syntax diatas berfungsi untuk mencetak hasil pangkat, mulai dari 10 pangkat 0 sampai 10 pangkat 10
@@ -156,7 +156,7 @@ print ('{0:>3} {1:>16}'.format(10, 10**10))
 #### OUTPUT
 Dibawah ini merupakan hasil output dari syntax diatas
 
-![outputstringformat](https://user-images.githubusercontent.com/72775624/97995257-dc5c0a80-1e18-11eb-8cad-f927711e8afb.PNG)
+
 
 #### ANALISIS
 •	Untuk angka pada statement {0:<3} {1:<16} berfungsi untuk memberi jarak, lalu untuk tanda < dan > untuk memberikan rata kanan dan rata kiri. <br>
